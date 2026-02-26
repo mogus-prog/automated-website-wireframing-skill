@@ -1,0 +1,5 @@
+{
+  "add_sections": ["Pricing"],
+  "remove_sections": ["Testimonials"],
+  "primary_cta": "Request a Quote"
+}
